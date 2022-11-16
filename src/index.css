@@ -1,0 +1,48 @@
+*,
+:after,
+:before {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0
+}
+
+html {
+    font-size: 62.5%
+}
+
+body {
+    background-color: #273c75;
+    box-sizing: border-box;
+    color: #f5f6fa;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2rem 1rem
+}
+
+::selection {
+    background-color: #b5c2e6;
+    color: #2f3640
+}
+
+#app {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    justify-content: center;
+    width: 100vw
+}
+
+#app-logo {
+    height: 30%;
+    margin-bottom: 2.6rem;
+    width: auto
+}
+
+#app-title {
+    font-size: 3.6rem;
+    margin-bottom: 2.6rem
+}
+
+#app-desc {
+    font-size: 2.2rem
+}

@@ -9,6 +9,13 @@
 
 <h2 align="center">Instructions</h2>
 
+<h3 align="center">Clone repo to your local</h3>
+
+```powershell
+PA C:\> git clone https://github.com/glitchy-sage/react-sass-blueprint.git APP_NAME
+```
+<br/>
+
 <h3 align="center">&darr; Learn the commands below &darr;</h3>
 
 <br/>
